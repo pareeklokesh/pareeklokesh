@@ -5,6 +5,13 @@
 	<img src="https://github.com/pareeklokesh/pareeklokesh/blob/3586539ee3c91353a9f0343177790e9d86f2f229/assets/img/wordpress-tile.svg" width="40" height="40" alt="WordPress" /> <img src="https://github.com/pareeklokesh/pareeklokesh/blob/3586539ee3c91353a9f0343177790e9d86f2f229/assets/img/vscode-original.svg" width="40" height="40" alt="Vscode" /> <img src="https://github.com/pareeklokesh/pareeklokesh/blob/3586539ee3c91353a9f0343177790e9d86f2f229/assets/img/figma-original.svg" width="40" height="40" alt="Figma" /> <img src="https://github.com/pareeklokesh/pareeklokesh/blob/3586539ee3c91353a9f0343177790e9d86f2f229/assets/img/Adobe_Photoshop_CC_icon.svg.png" width="40" height="40" alt="Adobe Photoshop" />
 </div>
 <br>
-<div align="center">
-<img src="https://github.com/pareeklokesh/pareeklokesh/blob/0b2e1f59f43494566dc6d90a81943da33539b44c/lokeshpareek.png" alt="Lokesh Pareek" />
+<div>
+<p>🌐 My expertise lies in front-end development, and I enjoy bringing my designs to life using HTML, CSS, and JavaScript. I    strive to ensure my websites are responsive, accessible, and optimized for performance across various devices and browsers.</p>
 </div>
+<div>
+	<p>📫 Let's connect and collaborate on projects that captivate and delight users. You can reach me at lokeshpareek766584@gmail.com or find me on LinkedIn: <a href="https://www.linkedin.com/in/lokesh-pareek-5591b2200">https://www.linkedin.com/in/lokesh-pareek-5591b2200</a></p>
+</div
+<br>
+<!-- <div align="center">
+<img src="https://github.com/pareeklokesh/pareeklokesh/blob/0b2e1f59f43494566dc6d90a81943da33539b44c/lokeshpareek.png" alt="Lokesh Pareek" />
+</div> -->
