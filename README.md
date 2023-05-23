@@ -9,7 +9,7 @@
 <p>🌐 My expertise lies in front-end development, and I enjoy bringing my designs to life using HTML, CSS, and JavaScript. I    strive to ensure my websites are responsive, accessible, and optimized for performance across various devices and browsers.</p>
 </div>
 <div>
-	<p>📫 Let's connect and collaborate on projects that captivate and delight users. You can reach me at lokeshpareek766584@gmail.com or find me on LinkedIn: <a href="https://www.linkedin.com/in/lokesh-pareek-5591b2200">https://www.linkedin.com/in/lokesh-pareek-5591b2200</a></p>
+	<p>📫 Let's connect and collaborate on projects that captivate and delight users. You can reach me at <b>lokeshpareek766584@gmail.com</b> or find me on LinkedIn: <a href="https://www.linkedin.com/in/lokesh-pareek-5591b2200">https://www.linkedin.com/in/lokesh-pareek-5591b2200</a></p>
 </div
 <br>
 	<div align="center">
