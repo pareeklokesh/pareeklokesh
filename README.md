@@ -21,11 +21,6 @@
 	<div align="center">
 		<img src="https://github.com/pareeklokesh/pareeklokesh/blob/f42f8bb02a09175bdfb6f3d2da25c4f595fb08b3/devwork.gif">
 	</div>
-	<video>
-	<source src="https://github.com/pareeklokesh/pareeklokesh/blob/0806a57741043bb6421add23eebb027b6c534c89/assets/video/developerwork.mp4">
-	</video>
-	
 
-https://github.com/pareeklokesh/pareeklokesh/assets/104905276/0527da33-b911-4d63-8d86-4d8ae8c627da
 
 
